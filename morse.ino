@@ -66,7 +66,7 @@ void executeMorse(char oneChar)
 			Dash();
 			break;
 		case 'k':
-			Dash():
+			Dash();
 			Dot();
 			Dash();
 			break;
@@ -81,7 +81,7 @@ void executeMorse(char oneChar)
 			Dash();
 			break;
 		case 'n':
-			Dash():
+			Dash();
 			Dot();
 			break;
 		case 'o':
@@ -92,7 +92,7 @@ void executeMorse(char oneChar)
 		case 'p':
 			Dot();
 			Dash();
-			Dash():
+			Dash();
 			Dot();
 			break;
 		case 'q':
