@@ -1,2 +1,2 @@
 # sketches
-Make arduino sketches to troll Mr. Newland
+Arduino sketches for personal project.
